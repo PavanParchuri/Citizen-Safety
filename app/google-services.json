@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119023600581",
+    "firebase_url": "https://evocative-maker-265207.firebaseio.com",
+    "project_id": "evocative-maker-265207",
+    "storage_bucket": "evocative-maker-265207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119023600581:android:715e5246633b4ecf9941ac",
+        "android_client_info": {
+          "package_name": "com.example.citizensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119023600581-jneouhepftla3emri1q7r36ss70ba3sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citizensafety",
+            "certificate_hash": "51d8c7521fdba3a29b0938c22c70d04be515478e"
+          }
+        },
+        {
+          "client_id": "119023600581-poltbbbhhr36blpt17l08v2qagsaeiku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTfQSqoxX_5nPpO4A9CeGa5-GU0ZnjrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119023600581-poltbbbhhr36blpt17l08v2qagsaeiku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
