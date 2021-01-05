@@ -1,4 +1,4 @@
-# CitizenSafety
+# Citizen-Safety
 
 ### PROBLEM STATEMENT: 
 Cities have issues of safety. There is data available in cities, which indicates a particular section being more unsafe than others. What should be done with these unsafe parts of any city to increase the safety of our citizens?
